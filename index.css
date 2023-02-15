@@ -1,0 +1,38 @@
+.body {
+    border-style: solid;
+    background: black;
+    text-align: center;
+}
+
+.button {
+    text-align: right;
+}
+
+.logo {
+    margin: auto;
+    padding: auto;
+
+}
+
+.copyright {
+    text-align: left;
+}
+
+.contact {
+    text-align: center;
+    padding-bottom: 200px;
+}
+
+.h2 {
+    text-align: center;
+}
+
+.h4 {
+    text-align: center;
+}
+
+.location {
+    background-image: url("/Users/manzar/Adam's code/Tea Cozy/images/img-locations-background.webp");
+ justify-content: center
+    border-image: 500px;
+}
