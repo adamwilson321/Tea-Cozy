@@ -1,17 +1,18 @@
 .body {
-    border-style: solid;
-    background: black;
+    border: 50px solid black;
+    background-color: black;
     text-align: center;
 }
 
 .button {
     text-align: right;
+    margin-top: -20px;
 }
 
 .logo {
-    margin: auto;
-    padding: auto;
-
+ margin: auto;
+ padding: auto;
+ height: 2;
 }
 
 .copyright {
@@ -24,7 +25,7 @@
 }
 
 .h2 {
-    text-align: center;
+    text-align: justify ;
 }
 
 .h4 {
@@ -32,7 +33,12 @@
 }
 
 .location {
-    background-image: url("/Users/manzar/Adam's code/Tea Cozy/images/img-locations-background.webp");
- justify-content: center
-    border-image: 500px;
+background-image: url(images/img-locations-background.webp);
+
+}
+
+.tea {
+    width: 300px;
+    height: 170px;
+    margin: 5px;
 }
