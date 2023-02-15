@@ -11,8 +11,9 @@
 
 .logo {
  margin: auto;
- padding: auto;
- height: 2;
+ padding: auto; /*we dont have auto value for padding*/
+ height: 20%;
+    background-color: #f17979;
 }
 
 .copyright {
@@ -33,7 +34,7 @@
 }
 
 .location {
-background-image: url(images/img-locations-background.webp);
+background-image: url(img-locations-background.webp);
 
 }
 
