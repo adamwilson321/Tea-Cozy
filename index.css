@@ -1,45 +1,41 @@
-.body {
-    border: 50px solid black;
-    background-color: black;
-    text-align: center;
-}
 
 .button {
     text-align: right;
     margin-top: -20px;
 }
 
-.logo {
- margin: auto;
- padding: auto; /*we dont have auto value for padding*/
- height: 20%;
-    background-color: #f17979;
-}
-
 .copyright {
-    text-align: left;
+ color: grey;
+ margin-top: -170px;
 }
 
-.contact {
+.contact{
     text-align: center;
-    padding-bottom: 200px;
+    margin-bottom: 200px;
 }
-
-.h2 {
-    text-align: justify ;
-}
-
-.h4 {
-    text-align: center;
-}
-
-.location {
-background-image: url(img-locations-background.webp);
-
-}
+.logo {
+    margin-top: -40;
+    padding: auto; /*we dont have auto value for padding*/
+    height: 10%;
+    width: 30%;
+    background-color: black;
+   }
+   
+   .location {
+   background-image: url("images/img-locations-background.webp");
+   color: grey;
+   opacity: 1;  
+   border: solid;
+   text-align: center; 
+   }
 
 .tea {
     width: 300px;
     height: 170px;
     margin: 5px;
+}
+
+.layout {
+    background-color: black;
+    color: gray;
 }
